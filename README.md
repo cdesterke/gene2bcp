@@ -9,3 +9,6 @@
 #### this shell script allow to found metabolic genes from a human gene list 
 **********************
 #### usage: sh gene2bcp.sh humangene.txt
+***********
+author: christophe.desterke@gmail.com
+licence : MIT
