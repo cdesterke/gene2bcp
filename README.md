@@ -1,6 +1,6 @@
 # gene2bcp
 
-## gene2bcp software allow to annotated a human gene symbol list with their implication in metabolism
+## gene2bcp software allow to annotate a human gene symbol list with their implication in metabolism pathways
 
 ### metabolism pathway database was built with BioCycPathway annotations for human gene symbols
 >https://biocyc.org/
