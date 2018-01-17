@@ -4,7 +4,8 @@
 
 ### metabolism pathway database was built with BioCycPathway annotations for human gene symbols
 >https://biocyc.org/
-
+### dependencies: need to install moreutils to used sponge command line 
+### under debian: >sudo apt-get install moreutils
 
 #### this shell script allow to found metabolic genes from a human gene list 
 **********************
