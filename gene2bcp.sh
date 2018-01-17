@@ -69,7 +69,7 @@ cd RESULTS
 mv bcp_results.csv $(echo bcp_results.csv | sed "s/\./".$nom_fichier"\./")
 mv log_file.log $(echo log_file.log | sed "s/\./".$nom_fichier"\./")
 
-cd .. GENEANNOT
+cd .. 
 mv RESULTS RESULTS_$nom_fichier
 
 rm input 
