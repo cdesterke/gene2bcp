@@ -3,6 +3,7 @@
 ## Author: Christophe Desterke
 ## Version 1.0.1
 ## Date: January 13th, 2018
+## Dependencies: need to install moreutils to used sponge command line
 ## Usage: sh gene2bcp.sh humangene.txt
 
 variable=${1}
